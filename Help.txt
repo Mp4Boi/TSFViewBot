@@ -1,0 +1,5 @@
+To get the post ID first go to https://topstreetfights.com/ 
+and after choose any video that you want and then execute this script 
+https://raw.githubusercontent.com/Mp4Boi/TSFViewBot/main/printids.js 
+in the developer console and when you get your postid go and open the view bot and when it will ask you for the postid just paste the postid you got from the site!
+(you need to go to https://raw.githubusercontent.com/Mp4Boi/TSFViewBot/main/printids.js to get the script)
